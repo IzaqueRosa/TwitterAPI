@@ -1,0 +1,15 @@
+D:\Projetos\TwitterAPI\Twitter.Domain\bin\Debug\net6.0\Twitter.Domain.deps.json
+D:\Projetos\TwitterAPI\Twitter.Domain\bin\Debug\net6.0\Twitter.Domain.dll
+D:\Projetos\TwitterAPI\Twitter.Domain\bin\Debug\net6.0\Twitter.Domain.pdb
+D:\Projetos\TwitterAPI\Twitter.Domain\bin\Debug\net6.0\Twitter.Data.dll
+D:\Projetos\TwitterAPI\Twitter.Domain\bin\Debug\net6.0\Twitter.Data.pdb
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.csproj.AssemblyReference.cache
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.AssemblyInfoInputs.cache
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.AssemblyInfo.cs
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.csproj.CopyComplete
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.dll
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\refint\Twitter.Domain.dll
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\Twitter.Domain.pdb
+D:\Projetos\TwitterAPI\Twitter.Domain\obj\Debug\net6.0\ref\Twitter.Domain.dll

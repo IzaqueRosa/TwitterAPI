@@ -1,0 +1,12 @@
+D:\Projetos\TwitterAPI\Twitter.Data\bin\Debug\net6.0\Twitter.Data.deps.json
+D:\Projetos\TwitterAPI\Twitter.Data\bin\Debug\net6.0\Twitter.Data.dll
+D:\Projetos\TwitterAPI\Twitter.Data\bin\Debug\net6.0\Twitter.Data.pdb
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.csproj.AssemblyReference.cache
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.AssemblyInfoInputs.cache
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.AssemblyInfo.cs
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.dll
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\refint\Twitter.Data.dll
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\Twitter.Data.pdb
+D:\Projetos\TwitterAPI\Twitter.Data\obj\Debug\net6.0\ref\Twitter.Data.dll
